@@ -10,6 +10,6 @@ Last updated in 2021, there have been many new additions to the game, which requ
      - <sub>Lots of new vehicles have been added to Mission Chief since the last update in 2021, make a list of these, and add to the graphics pack.</sub>
 
 ## Credits:
-Livery Megapack Reanimated is handled by DazzaJay of the Pothole Studios Gaming Network.
+DazzaJay's NSW Graphics Pack for Mission Chief is handled by DazzaJay of the Pothole Studios Gaming Network.
 
 https://www.potholestudios.com
