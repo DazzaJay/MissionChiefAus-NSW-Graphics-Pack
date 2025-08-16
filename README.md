@@ -19,6 +19,7 @@ Last updated in 2021, there have been many new additions to the game, which requ
      - [x] <sub>16-08-2025: Added Fire Helicopter</sub>
      - [x] <sub>16-08-2025: Added Bomber</sub>
      - [x] <sub>16-08-2025: Added Large Air Tanker</sub>
+     - [x] <sub>16-08-2025: Added SES Trailers (Towed by LandCruisers): Storm, Sandbag, Pump, Lighting, Aireshelter, Comms, Solar, Search and Rescue.</sub>
 
 ## Credits:
 DazzaJay's NSW Graphics Pack for Mission Chief is handled by DazzaJay of the Pothole Studios Gaming Network.
