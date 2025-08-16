@@ -3,11 +3,22 @@
 # MissionChiefAus-NSW-Graphics-Pack
 DazzaJay's NSW Graphics Pack for Mission Chief Australia
 
+# Bug Reports & Graphic Requests?
+Problem with one of the graphics? want to request a new one?
+Then create a new issue on the issues page here: 
+
+https://github.com/DazzaJay/MissionChiefAus-NSW-Graphics-Pack/issues
+
+# Changelog
 Last updated in 2021, there have been many new additions to the game, which require new icons to be added to this pack.
 
-- [ ] **1. Coming Soon: Add New Additions since 2021 to the Graphics Pack.**
+- [ ] ➡️ **1. In Progress: Add New Additions since 2021 to the Graphics Pack.**
 
      - <sub>Lots of new vehicles have been added to Mission Chief since the last update in 2021, make a list of these, and add to the graphics pack.</sub>
+
+     - [x] <sub>16-08-2025: Added Fire Helicopter</sub>
+     - [x] <sub>16-08-2025: Added Bomber</sub>
+     - [x] <sub>16-08-2025: Added Large Air Tanker</sub>
 
 ## Credits:
 DazzaJay's NSW Graphics Pack for Mission Chief is handled by DazzaJay of the Pothole Studios Gaming Network.
