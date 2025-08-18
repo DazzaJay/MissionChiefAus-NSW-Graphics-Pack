@@ -12,7 +12,7 @@ https://github.com/DazzaJay/MissionChiefAus-NSW-Graphics-Pack/issues
 # Changelog
 Last updated in 2021, there have been many new additions to the game, which require new icons to be added to this pack.
 
-- [ ] ➡️ **1. In Progress: Add New Additions since 2021 to the Graphics Pack.**
+- [ ] ➡️ **In Progress: Add New Additions since 2021 to the Graphics Pack.**
 
      - <sub>Lots of new vehicles have been added to Mission Chief since the last update in 2021, make a list of these, and add to the graphics pack.</sub>
 
