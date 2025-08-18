@@ -16,6 +16,7 @@ Last updated in 2021, there have been many new additions to the game, which requ
 
      - <sub>Lots of new vehicles have been added to Mission Chief since the last update in 2021, make a list of these, and add to the graphics pack.</sub>
 
+     - [x] <sub>18-08-2025: Added SES FOV</sub>
      - [x] <sub>16-08-2025: Added Fire Helicopter</sub>
      - [x] <sub>16-08-2025: Added Bomber</sub>
      - [x] <sub>16-08-2025: Added Large Air Tanker</sub>
