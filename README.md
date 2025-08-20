@@ -16,6 +16,7 @@ Last updated in 2021, there have been many new additions to the game, which requ
 
      - <sub>Lots of new vehicles have been added to Mission Chief since the last update in 2021, make a list of these, and add to the graphics pack.</sub>
 
+     - [x] <sub>20-08-2025: Added Boats: Patrol Cutter, Fire Boat, VMR Boat.</sub>
      - [x] <sub>18-08-2025: Added New SES Vehicle.</sub>
      - [x] <sub>18-08-2025: Changed SES Vehicle to SES Rescue Truck.</sub>
      - [x] <sub>18-08-2025: Added SES FOV, SES 6x6, SES Mobile Command.</sub>
