@@ -16,7 +16,7 @@ Last updated in 2021, there have been many new additions to the game, which requ
 
      - <sub>Lots of new vehicles have been added to Mission Chief since the last update in 2021, make a list of these, and add to the graphics pack.</sub>
 
-     - [x] <sub>26-08-2025: Added Ultra Light Tanker, Light Tanker, Pumper Tanker.</sub>
+     - [x] <sub>26-08-2025: Added Ultra Light Tanker, Light Tanker, Pumper Tanker, Riot SUV, Riot Group Vehicle, Riot Equipment Vehicle.</sub>
      - [x] <sub>25-08-2025: Added HAZMAT Pumper, VMR Vehicle, Senior Sergeant.</sub>
      - [x] <sub>22-08-2025: Added Foam Trailer, Transport Ambo, RIV, ULFV, Emergency Stairs.</sub>
      - [x] <sub>20-08-2025: Added Boats: Patrol Cutter, Fire Boat, VMR Boat.</sub>
