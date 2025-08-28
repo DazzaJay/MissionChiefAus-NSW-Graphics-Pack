@@ -5,17 +5,18 @@ DazzaJay's NSW Graphics Pack for Mission Chief Australia
 
 # Bug Reports & Graphic Requests?
 Problem with one of the graphics? want to request a new one?
-Then create a new issue on the issues page here: 
+Then create a new issue on the issues page here:
 
 https://github.com/DazzaJay/MissionChiefAus-NSW-Graphics-Pack/issues
 
 # Changelog
-Last updated in 2021, there have been many new additions to the game, which require new icons to be added to this pack.
+Last updated in 28/08/2025.
 
-- [ ] ➡️ **In Progress: Add New Additions since 2021 to the Graphics Pack.**
+- [x] **In Progress: Add New Additions since 2021 to the Graphics Pack.**
 
      - <sub>Lots of new vehicles have been added to Mission Chief since the last update in 2021, make a list of these, and add to the graphics pack.</sub>
 
+     - [x] <sub>28-08-2025: Added Foam Logistics Vehicle & Other final icons.</sub>
      - [x] <sub>26-08-2025: Added Ultra Light Tanker, Light Tanker, Pumper Tanker, Riot SUV, Riot Group Vehicle, Riot Equipment Vehicle.</sub>
      - [x] <sub>25-08-2025: Added HAZMAT Pumper, VMR Vehicle, Senior Sergeant.</sub>
      - [x] <sub>22-08-2025: Added Foam Trailer, Transport Ambo, RIV, ULFV, Emergency Stairs.</sub>
